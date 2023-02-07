@@ -68,11 +68,12 @@ label {
 
 a:link {
   text-decoration: none;
-
+  color: #FFB3C3
 }
 
 a:hover {
   text-decoration: none;
+  color: #FFB3C3
 }
 a:visited {
   text-decoration: none;
